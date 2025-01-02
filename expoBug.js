@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an issue where the development server would intermittently fail to start. The error message was inconsistent, sometimes indicating a port conflict, other times a generic server error.  This happened after upgrading Expo CLI to the latest version and installing a new dependency. The project was a React Native app.
